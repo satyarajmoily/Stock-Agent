@@ -1,0 +1,3 @@
+{"timestamp": "2025-05-22 15:52:53.696967", "input": "The latest report shows rising inflation figures.", "prediction": "down", "status": "pass"}
+{"timestamp": "2025-05-22 15:52:53.698597", "input": "The market seems stable with no major news.", "prediction": "up", "status": "fail"}
+{"timestamp": "2025-05-23 15:08:22.104455", "input": "[2025-05-23 15:08:22] Cryptocurrency market sees increased volatility after a major exchange announcement.", "prediction": "up", "status": "fail"}
